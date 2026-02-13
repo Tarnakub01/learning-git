@@ -1,1 +1,1 @@
-Pump Status: OFF
+Pump status: MANUAL
